@@ -13,11 +13,11 @@ This repository contains a Streamlit web application for a restaurant management
 
 To run this application locally, you will need to set up the database on your local MySQL server. Follow the steps below:
 
-### 1. Install MySQL
+1. Install MySQL
 
 If you do not have MySQL installed, you can download and install it from the [official MySQL website](https://dev.mysql.com/downloads/).
 
-### 2. Create the Database and Tables
+2. Create the Database and Tables
 
 Download the provided SQL scripts for procedures, triggers, database setup, and inserts. Then, run these scripts in your MySQL server to create the necessary database and tables.
 
